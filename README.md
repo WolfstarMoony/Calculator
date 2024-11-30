@@ -46,8 +46,8 @@ Contribuições são sempre bem-vindas! Caso tenha sugestões, ideias ou melhori
 
 ## 📬 Contato
 
-- **Email:** seuemail@email.com  
-- **GitHub:** [Seu Usuário](https://github.com/seu-usuario)
+- **Email:* liviaribeirodasilva168@gmail.com
+- **GitHub:** [Seu Usuário](https://github.com/WolfstarMoony)
 
 ---
 
