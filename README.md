@@ -1,6 +1,7 @@
 # 💫 Projeto Calculadora Estética
 
 ![Preview da Calculadora](./img/Screenshot_1.png)
+
 Uma calculadora minimalista e funcional com design clean e moderno, feita com **HTML**, **CSS** e **JavaScript**, destacando-se pelos tons suaves de **Powder Blue**.
 
 ---
